@@ -98,12 +98,13 @@ img{
         grid-template-columns: 1fr;
     }
     .section-1{
-        padding:0;
+        padding: 0;
         padding-top: 5rem;
+        text-align: center;
     }
     .section-2{
         padding: 0;
-        padding-left: 1.5rem;
         padding-top: 2rem;
+        margin: auto;
     }
 }
